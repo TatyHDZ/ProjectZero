@@ -20,6 +20,9 @@ public String bd = "dbtaller";
 public String login = "taty";
 public String password = "tatiana";
 
+//Comentario para mi amiga andy, si ves ésto
+//significa que se están ejecutando los cambios correctamente
+
 public String url = "jdbc:mysql://TATYS-PC:3306/"+bd;  
 Connection conn = null;
 Statement s = null;
